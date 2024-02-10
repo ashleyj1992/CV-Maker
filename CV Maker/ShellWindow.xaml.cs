@@ -18,9 +18,9 @@ namespace CV_Maker
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ShellWindow : Window
     {
-        public MainWindow()
+        public ShellWindow()
         {
             InitializeComponent();
         }
