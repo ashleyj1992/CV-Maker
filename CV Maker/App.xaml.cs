@@ -13,5 +13,6 @@ namespace CV_Maker
     /// </summary>
     public partial class App : Application
     {
+
     }
 }
